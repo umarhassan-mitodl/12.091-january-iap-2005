@@ -1,0 +1,54 @@
+{
+  "term": "January IAP",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ]
+  ],
+  "legacy_uid": "4d0813e0-c95e-5239-4a1a-5d3bf87d2c6a",
+  "instructors": {
+    "content": [
+      "5b2ee345-d759-0575-5f10-76db94266de7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3c8f7782-0a3a-3498-4088-6890a3e09c2e",
+    "website": "12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005"
+  },
+  "course_title": "Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure",
+  "course_description": "This course introduces students to the technique of instrumental neutron activation analysis. This is a non-destructive analytical technique for the determination of elemental abundances at\u00a0trace levels in a wide variety of geological, biological, environmental and industrial samples.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.091",
+  "course_image_thumbnail": {
+    "content": "d0d47bc1-f495-1235-ed26-ba5870b7d606",
+    "website": "12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments with Examples"
+  ],
+  "site_uid": "ccddf78c-658d-4f6b-9bc7-31a5e41785fd",
+  "site_short_id": "12.091-january-iap-2005",
+  "site_url_path": "courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005",
+  "title": "Course Metadata"
+}
