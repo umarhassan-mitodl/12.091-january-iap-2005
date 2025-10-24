@@ -71,7 +71,7 @@ The reference value of this standard is 24.7 ± 0.3. Write the formulae and calc
 Question 7
 ----------
 
-Our department chairperson came to know that an equipment grant would be available soon. So a memo was sent to our gamma-spectroscopy group asking the importance of gamma spectrometer. Write the usefulness of a gamma spectrometer. Describe the components of a gamma spectrometer. Look at the latest products. To look at the Web site {{% resource_link "d66c05a7-4551-43c8-816b-6cb654d272cf" "Canberra" %}} and look under product category and do a write up - one or two lines of each product you want to select.
+Our department chairperson came to know that an equipment grant would be available soon. So a memo was sent to our gamma-spectroscopy group asking the importance of gamma spectrometer. Write the usefulness of a gamma spectrometer. Describe the components of a gamma spectrometer. Look at the latest products. To look at the Web site [Canberra](http://www.canberra.com/) and look under product category and do a write up - one or two lines of each product you want to select.
 
 Question 8
 ----------
@@ -80,7 +80,7 @@ The Department of Agriculture came to know that some fruit trees in Florida got 
 
 ### Suggested Use
 
-1.  {{% resource_link "84bb726e-0593-4c75-95d3-fceed4178937" "National Institute of Standards and Technology" %}}, Look under NIST Products and Services. Using the online Catalog (click on), Advanced Search (click on), Enter Keyword (suggested keywords: agriculture, leaves), View Certificate of Report and note down the information, Suggest your choice of the standard.
+1.  [National Institute of Standards and Technology](http://www.nist.gov/), Look under NIST Products and Services. Using the online Catalog (click on), Advanced Search (click on), Enter Keyword (suggested keywords: agriculture, leaves), View Certificate of Report and note down the information, Suggest your choice of the standard.
 
 Question 9
 ----------
@@ -89,7 +89,7 @@ The MIT Libraries has asked you for some suggestions for new books on neutron ac
 
 ### Suggestions
 
-1.  {{% resource_link "a4a80c2b-aa25-4222-82b2-a8579a0ceb74" "Vera: Virtual Electronic Resource Access" %}}, Type Books in Print in the search box. The next window opens, Type keyword in the Quick search box (suggested keywords: Neutron activation analysis, Nuclear analytical, Environmental geochemistry..., any keyword of your interest or field), You may search the Title in the Barton Search box to see whether that book already exists in the MIT library. Barton, the Libraries online catalog.
+1.  [Vera: Virtual Electronic Resource Access](http://libraries.mit.edu/vera), Type Books in Print in the search box. The next window opens, Type keyword in the Quick search box (suggested keywords: Neutron activation analysis, Nuclear analytical, Environmental geochemistry..., any keyword of your interest or field), You may search the Title in the Barton Search box to see whether that book already exists in the MIT library. Barton, the Libraries online catalog.
 
 Question 10
 -----------
